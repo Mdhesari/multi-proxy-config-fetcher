@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-25T02:10:09.272494+00:00",
+  "timestamp": "2026-06-28T02:28:38.478407+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2rayfree",
@@ -29,20 +29,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 19,
-        "valid_configs": 15,
-        "unique_configs": 15,
+        "valid_configs": 13,
+        "unique_configs": 13,
         "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.46,
-        "last_success": "2026-06-25T02:09:16.623436+00:00",
+        "overall_score": 91.83,
+        "last_success": "2026-06-28T02:27:46.232711+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 13,
-          "vmess://": 1,
+          "vless://": 9,
+          "vmess://": 0,
           "ss://": 0,
-          "trojan://": 1,
+          "trojan://": 4,
           "tuic://": 0
         }
       }
@@ -51,21 +51,21 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 17,
-        "valid_configs": 16,
-        "unique_configs": 16,
-        "avg_response_time": 0.19,
+        "total_configs": 15,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 98.24,
-        "last_success": "2026-06-25T02:09:18.849229+00:00",
+        "overall_score": 99.71,
+        "last_success": "2026-06-28T02:27:48.462992+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 16,
+          "trojan://": 15,
           "tuic://": 0
         }
       }
@@ -75,20 +75,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 56,
-        "valid_configs": 32,
-        "unique_configs": 29,
-        "avg_response_time": 0.27,
+        "valid_configs": 34,
+        "unique_configs": 33,
+        "avg_response_time": 0.29,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.53,
-        "last_success": "2026-06-25T02:09:21.175330+00:00",
+        "overall_score": 89.01,
+        "last_success": "2026-06-28T02:27:50.802841+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 0,
-          "vless://": 10,
+          "hysteria2://": 1,
+          "vless://": 11,
           "vmess://": 0,
-          "ss://": 0,
-          "trojan://": 22,
+          "ss://": 1,
+          "trojan://": 21,
           "tuic://": 0
         }
       }
@@ -97,21 +97,21 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": true,
       "metrics": {
-        "total_configs": 17,
-        "valid_configs": 16,
-        "unique_configs": 16,
-        "avg_response_time": 0.16,
+        "total_configs": 15,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 98.29,
-        "last_success": "2026-06-25T02:09:23.364645+00:00",
+        "overall_score": 99.74,
+        "last_success": "2026-06-28T02:27:53.006144+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 16,
+          "trojan://": 15,
           "tuic://": 0
         }
       }
@@ -127,7 +127,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.0,
-        "last_success": "2026-06-25T02:09:48.145388+00:00",
+        "last_success": "2026-06-28T02:28:17.822599+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,
@@ -146,11 +146,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.06,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.68,
-        "last_success": "2026-06-25T02:09:50.218150+00:00",
+        "overall_score": 77.67,
+        "last_success": "2026-06-28T02:28:19.904435+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -166,21 +166,21 @@
       "url": "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 34225,
-        "valid_configs": 147,
-        "unique_configs": 147,
-        "avg_response_time": 0.03,
+        "total_configs": 4900,
+        "valid_configs": 55,
+        "unique_configs": 55,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.07,
-        "last_success": "2026-06-25T02:09:53.038757+00:00",
+        "overall_score": 75.22,
+        "last_success": "2026-06-28T02:28:22.018323+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 4,
-          "vless://": 1,
-          "vmess://": 11,
-          "ss://": 54,
-          "trojan://": 77,
+          "hysteria2://": 0,
+          "vless://": 3,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 52,
           "tuic://": 0
         }
       }
@@ -212,21 +212,21 @@
       "url": "https://v2.alicivil.workers.dev",
       "enabled": true,
       "metrics": {
-        "total_configs": 70490,
-        "valid_configs": 183,
-        "unique_configs": 183,
-        "avg_response_time": 1.43,
+        "total_configs": 70756,
+        "valid_configs": 187,
+        "unique_configs": 187,
+        "avg_response_time": 1.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 72.93,
-        "last_success": "2026-06-25T02:10:09.265062+00:00",
+        "overall_score": 73.39,
+        "last_success": "2026-06-28T02:28:38.471008+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 5,
-          "vless://": 90,
-          "vmess://": 16,
-          "ss://": 6,
-          "trojan://": 66,
+          "hysteria2://": 2,
+          "vless://": 92,
+          "vmess://": 18,
+          "ss://": 5,
+          "trojan://": 70,
           "tuic://": 0
         }
       }
