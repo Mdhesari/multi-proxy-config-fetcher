@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-19T04:59:01.919898+00:00",
+  "timestamp": "2026-11-22T03:59:13.786270+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2rayfree",
@@ -29,19 +29,19 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 0.19,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.21,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.47,
-        "last_success": "2026-11-19T04:55:50.814763+00:00",
+        "overall_score": 90.93,
+        "last_success": "2026-11-22T03:56:00.898900+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 15,
-          "vmess://": 0,
-          "ss://": 0,
+          "vless://": 9,
+          "vmess://": 2,
+          "ss://": 2,
           "trojan://": 0,
           "tuic://": 0
         }
@@ -75,20 +75,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 24,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.24,
+        "valid_configs": 16,
+        "unique_configs": 15,
+        "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.23,
-        "last_success": "2026-11-19T04:55:55.305400+00:00",
+        "overall_score": 89.62,
+        "last_success": "2026-11-22T03:56:05.530513+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 6,
-          "vmess://": 2,
+          "vless://": 7,
+          "vmess://": 0,
           "ss://": 0,
-          "trojan://": 6,
+          "trojan://": 9,
           "tuic://": 0
         }
       }
@@ -146,11 +146,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.66,
-        "last_success": "2026-11-19T04:58:46.683246+00:00",
+        "overall_score": 77.54,
+        "last_success": "2026-11-22T03:58:57.216035+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -166,21 +166,21 @@
       "url": "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 7396,
-        "valid_configs": 84,
-        "unique_configs": 84,
-        "avg_response_time": 0.01,
+        "total_configs": 25,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.27,
-        "last_success": "2026-11-19T04:58:48.839439+00:00",
+        "overall_score": 79.9,
+        "last_success": "2026-11-22T03:58:59.283220+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 33,
-          "vless://": 3,
-          "vmess://": 44,
+          "hysteria2://": 0,
+          "vless://": 1,
+          "vmess://": 2,
           "ss://": 0,
-          "trojan://": 4,
+          "trojan://": 2,
           "tuic://": 0
         }
       }
@@ -213,20 +213,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 70490,
-        "valid_configs": 134,
-        "unique_configs": 134,
-        "avg_response_time": 1.86,
+        "valid_configs": 129,
+        "unique_configs": 129,
+        "avg_response_time": 1.71,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 72.25,
-        "last_success": "2026-11-19T04:59:01.916193+00:00",
+        "overall_score": 72.49,
+        "last_success": "2026-11-22T03:59:13.782560+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 6,
-          "vless://": 55,
-          "vmess://": 22,
-          "ss://": 40,
-          "trojan://": 11,
+          "hysteria2://": 2,
+          "vless://": 53,
+          "vmess://": 29,
+          "ss://": 35,
+          "trojan://": 10,
           "tuic://": 0
         }
       }
